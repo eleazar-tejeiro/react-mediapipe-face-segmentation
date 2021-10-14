@@ -14,6 +14,7 @@ function App() {
   return (
     <Router>
       <Switch>
+        
         <Route exact path='/'>
           <Home />
           <Link className="button" to='/face-segmentation'>Face Segmentation</Link>
@@ -24,7 +25,7 @@ function App() {
           <Link className="button" to='/'>Home</Link>
         </Route>
 
-        <Route path='/'>
+        <Route path='/error-page'>
           <ErrorPage />
         </Route>
       </Switch>
