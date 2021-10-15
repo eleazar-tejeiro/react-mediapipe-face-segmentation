@@ -1,5 +1,6 @@
 {
-  "name": "react-mediapipe-video",
+  "homepage": "https://eleazar-tejeiro.github.io/react-mediapipe-face-segmentation",
+  "name": "react-mediapipe-face-segmentation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
