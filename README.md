@@ -1,7 +1,3 @@
-# Try the app
-
-https://eleazar-tejeiro.github.io/react-mediapipe-face-segmentation/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

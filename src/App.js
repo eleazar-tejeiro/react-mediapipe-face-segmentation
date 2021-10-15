@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path='/react-mediapipe-face-segmentation'>
+        <Route exact path='/'>
           <Home />
           <Link className="button" to='/face-segmentation'>Face Segmentation</Link>
         </Route>
